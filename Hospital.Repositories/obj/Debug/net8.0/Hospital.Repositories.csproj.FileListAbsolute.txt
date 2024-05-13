@@ -1,0 +1,17 @@
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.043409E1.Up2Date
