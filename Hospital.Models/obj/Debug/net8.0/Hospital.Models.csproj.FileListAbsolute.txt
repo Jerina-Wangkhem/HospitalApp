@@ -1,0 +1,12 @@
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\bin\Debug\net8.0\Hospital.Models.deps.json
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\bin\Debug\net8.0\Hospital.Models.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\bin\Debug\net8.0\Hospital.Models.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.csproj.AssemblyReference.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.AssemblyInfoInputs.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.AssemblyInfo.cs
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.csproj.CoreCompileInputs.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\refint\Hospital.Models.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\Hospital.Models.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.Models\obj\Debug\net8.0\ref\Hospital.Models.dll
