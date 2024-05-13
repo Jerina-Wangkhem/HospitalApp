@@ -1,0 +1,15 @@
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.deps.json
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.AssemblyInfo.cs
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\refint\Hospital.ViewModels.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\ref\Hospital.ViewModels.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.Models.dll
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.Models.pdb
+D:\PROJECT\PracticeProject\HospitalApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.62AB27C3.Up2Date
